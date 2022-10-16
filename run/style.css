@@ -1,0 +1,36 @@
+/* body */
+body{
+    background-color:rgb(65, 73, 87);
+    text-align: center;
+    margin:auto;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+    color:#7fffd4;
+    font-family: 'Silkscreen', cursive;;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    width:60%;
+}
+
+.dices{
+    width:50%;
+    margin:4% auto 5% auto;
+}
+
+#title{
+    font-size: 7rem;
+}
+
+#title:hover{
+    color:#b3e8d6;
+}
+
+.reDo{
+    margin-bottom: 5%;
+}
